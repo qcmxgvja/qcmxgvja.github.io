@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "445a3ce3af91b17f82af3f9d",
+  "owner": "qcmxgvja",
+  "repo": "qcmxgvja.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "83042094141b3fa976c5e29a",
+      "a": "BoomCloud",
+      "b": "首页",
+      "entity": "BoomCloud",
+      "brand": "BoomCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "31d35495fd37b34d0a36405d4b00e3ef89e62f538e4e3119cc3e5f19a5971977",
+      "content": {
+        "primary_entity": "BoomCloud",
+        "keyword1": "BoomCloud",
+        "keyword2": "首页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据手机、电脑、路由器等设备类型选择对应客户端，按各平台文档配置订阅。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好设备数量与订阅周期，即可开始配置专属加速线路。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，围绕设备数量、流量档位与订阅周期提供多个方案，可结合日常办公、流媒体与游戏场景灵活选择。",
+          "AI_FEATURES_INTRO": "从设备数量、流量档位、订阅周期和加速场景帮你理清选择方向。",
+          "AI_FEATURES_TITLE": "选择前可关注三点",
+          "AI_FEATURE_TEXT_1": "按月或按年订阅灵活，按年付更省，适合长期稳定使用。",
+          "AI_FEATURE_TEXT_2": "按手机、电脑、平板、路由器等设备数量匹配套餐，避免超额断开。",
+          "AI_FEATURE_TEXT_3": "基础版适合日常浏览，旗舰版流媒体与游戏优化更佳，团队版满足多人。",
+          "AI_FEATURE_TITLE_1": "订阅周期",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "使用场景",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备适配、按客户端文档配置订阅，三步完成使用准备。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "BoomCloud 提供多档海外加速方案，覆盖个人日常到团队协作。按流量、设备数与线路需求选择套餐，配置订阅后即可在对应客户端使用。",
+          "AI_HERO_SUBTITLE": "多档加速方案按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按设备数量匹配流量方案",
+          "AI_HIGHLIGHT_3": "支持月付与年付订阅",
+          "AI_PLANS_INTRO": "对比流量、设备数和线路类型，按使用强度与团队规模选择套餐；月付灵活，年付更省。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、每月流量需求和加速场景，选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "确认常用设备的操作系统与客户端支持情况，预估同时在线设备数量。",
+          "AI_STEP_TEXT_3": "参照所选客户端的配置文档导入订阅信息，完成后即可使用加速线路。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "BoomCloud 多档加速方案",
+          "AI_FAQ_ANSWER_1": "在 BoomCloud 账户后台获取订阅链接，复制到所选客户端的订阅导入位置，保存后更新节点列表即可。不同客户端导入路径略有差异，可参考对应客户端的配置说明。",
+          "AI_FAQ_ANSWER_2": "基础版、旗舰版与团队版支持的同时在线设备数依次增加，覆盖个人、家庭到团队协作场景。手机、平板、电脑较多的用户建议从旗舰版起步，多人共享则适合团队版。",
+          "AI_FAQ_ANSWER_3": "可以。BoomCloud 提供月付与年付两种周期，年付方案在总支出上更划算。流量需求稳定、长期使用的用户适合年付；初次尝试可以先选择月付观察实际用量。",
+          "AI_FAQ_ANSWER_4": "基础版适合日常浏览与轻度影音，旗舰版带有 IPLC 专线并针对游戏加速优化，延迟表现更好。团队版提供 VIP 高带宽节点，适合对稳定性和带宽要求更高的多人场景。",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版提供优先工单支持，团队版还配有专属客户经理。遇到订阅导入、节点连接或套餐变更问题，可通过账户内的支持渠道提交工单获得协助。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "BoomCloud 订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_2": "一个账号最多可以几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "月付和年付可以自由选择吗？",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版在游戏体验上有什么区别？",
+          "AI_FAQ_QUESTION_5": "遇到使用问题如何获得支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9ab0254cfe32417612aef0887d2f1b71f725ff3599395437e5d3beac7f3d8eeb",
+    "sitemap.xml": "ce7f4c48397e637c48f46625f0d4d317f1277f1c7a788950ed5f919dbd9109e1",
+    "robots.txt": "cd412163d0983ccf86651f72b21d6c78299c970fb9128d27b497d22bb5a9d7cc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "841a77f1d3e08449ae170f97bea0e0ac1cafc9d9027c8b0faf4b3f8698db0d97"
+}
